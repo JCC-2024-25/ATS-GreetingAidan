@@ -1,2 +1,2 @@
-# GreetingAidan
-Simple greeting code
+# ATS
+a pokemon styled game 
